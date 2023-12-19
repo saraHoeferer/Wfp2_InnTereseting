@@ -52,5 +52,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Wahlfachprojekt-InnTeresting-main.sln"
+    "dotnet.defaultSolution": "Wfp2_InnTereseting.sln"
 }
